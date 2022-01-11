@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Vegas Dice
 //
-//  Created by Colleen Callahan on 1/11/22.
+//  Created by Michael Callahan on 1/11/22.
 //
 
 import UIKit
